@@ -2,20 +2,18 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=4FA8FF&center=true&vCenter=true&width=500&lines=Hello+World!" alt="Hello World"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&color=4FA8FF&vCenter=true&width=500&height=30&lines=Sobre+mim%3A" alt="Sobre mim"/>
+### 🚀 Sobre mim
 
-Me chamo **Leonardo Sinhorine**, sou estudante de **Engenharia de Software** e atuo com **Engenharia de Dados & Análise de Dados**, construindo pipelines ETL, dashboards e automações que apoiam decisões de negócio.
+Me chamo **Leonardo Sinhorine**, sou estudante de **Engenharia de Software** e focado em **Engenharia de Dados & Análise de Dados**. Desenvolvo projetos práticos aplicando pipelines ETL/ELT, modelagem de dados e dashboards para tomada de decisão de negócio.
 
-- 🎓 **Formação:** Engenharia de Software (Cruzeiro do Sul) · Pós em Engenharia de Dados (Anhanguera) · MBA em Dados & NLP (em andamento)
-- 🎯 **Objetivo:** Engenharia de Dados, Análise de Dados ou BI
-- 🗣️ **Idiomas:** Inglês (Intermediário — leitura técnica)
-- 📍 **Local:** Guarulhos/SP — presencial, híbrido ou remoto
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&color=4FA8FF&vCenter=true&width=500&height=30&lines=Tecnologias+e+Stack%3A" alt="Tecnologias e Stack"/>
+- 🎓 **Formação:** Eng. de Software (Cruzeiro do Sul) · Pós em Eng. de Dados (Anhanguera) · MBA em Dados & NLP *(em andamento)*
+- 🎯 **Objetivo:** Estágio em Engenharia de Dados, Análise de Dados ou BI
+- 🗣️ **Idiomas:** Inglês Intermediário (leitura e documentação técnica)
+- 📍 **Local:** Guarulhos/SP — disponível para estágio Presencial, Híbrido ou Remoto
 
 <br/>
+
+### 🛠️ Tecnologias e Stack
 
 **💻 Dados & Linguagens**
 
@@ -49,7 +47,7 @@ Me chamo **Leonardo Sinhorine**, sou estudante de **Engenharia de Software** e a
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&color=4FA8FF&vCenter=true&width=500&height=30&lines=Projetos+em+Destaque%3A" alt="Projetos em Destaque"/>
+### 📌 Projetos em Destaque
 
 <table>
 <tr>
@@ -99,7 +97,7 @@ Análise de sentimentos com 100 mil+ avaliações reais (Olist), transformando f
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&color=4FA8FF&vCenter=true&width=500&height=30&lines=Minhas+Redes%3A" alt="Minhas Redes"/>
+### 🌐 Minhas Redes
 
 <p>
   <a href="https://www.linkedin.com/in/leonardo-sinhorine-b42b9b302" target="_blank">
@@ -118,14 +116,12 @@ Análise de sentimentos com 100 mil+ avaliações reais (Olist), transformando f
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&color=4FA8FF&vCenter=true&width=500&height=30&lines=GitHub+Stats%3A" alt="GitHub Stats"/>
+### 📊 GitHub Stats
 
-<p>
-  <img height="180" src="https://raw.githubusercontent.com/leoSinhorine/leoSinhorine/main/profile/stats.svg"/>
-  <img height="180" src="https://raw.githubusercontent.com/leoSinhorine/leoSinhorine/main/profile/top-langs.svg"/>
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=leoSinhorine&show_icons=true&theme=tokyonight&hide_rank=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoSinhorine&layout=compact&theme=tokyonight"/>
 </p>
-
-<img src="https://raw.githubusercontent.com/leoSinhorine/leoSinhorine/main/profile/streak.svg" alt="Streak Stats"/>
 
 <br/>
 
