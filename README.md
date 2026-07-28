@@ -7,7 +7,7 @@
 Me chamo **Leonardo Sinhorine**, sou estudante de **Engenharia de Software** e atuo com **Engenharia de Dados & Análise de Dados**, construindo pipelines ETL, dashboards e automações que apoiam decisões de negócio.
 
 - 🎓 **Formação:** Engenharia de Software (Cruzeiro do Sul) · Pós em Engenharia de Dados (Anhanguera) · MBA em Dados & NLP (em andamento)
-- 🎯 **Objetivo:** Estágio em Engenharia de Dados, Análise de Dados ou BI
+- 🎯 **Objetivo:** Engenharia de Dados, Análise de Dados ou BI
 - 🗣️ **Idiomas:** Inglês (Intermediário — leitura técnica)
 - 📍 **Local:** Guarulhos/SP — presencial, híbrido ou remoto
 
