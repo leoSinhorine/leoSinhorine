@@ -121,11 +121,11 @@ Análise de sentimentos com 100 mil+ avaliações reais (Olist), transformando f
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&color=4FA8FF&vCenter=true&width=500&height=30&lines=GitHub+Stats%3A" alt="GitHub Stats"/>
 
 <p>
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leoSinhorine&theme=blue_navy"/>
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leoSinhorine&theme=blue_navy"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=leoSinhorine&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FA8FF&icon_color=60A5FA&text_color=FFFFFF"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoSinhorine&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FA8FF&text_color=FFFFFF"/>
 </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=leoSinhorine&background=0D1117&border=1976D2&stroke=1976D2&ring=4FA8FF&fire=4FA8FF&currStreakLabel=4FA8FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Streak Stats"/>
+<img src="https://streak-stats.demolab.com?user=leoSinhorine&background=0D1117&border=1976D2&stroke=1976D2&ring=4FA8FF&fire=4FA8FF&currStreakLabel=4FA8FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Streak Stats"/>
 
 <br/>
 
