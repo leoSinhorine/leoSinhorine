@@ -19,6 +19,8 @@ Me chamo **Leonardo Sinhorine**, sou estudante de **Engenharia de Software** e f
 
 <img src="https://skillicons.dev/icons?i=python,postgres,mysql,mongodb&theme=dark" />
 
+<br/>
+
 **📊 BI & Visualização**
 
 <p>
@@ -41,6 +43,8 @@ Me chamo **Leonardo Sinhorine**, sou estudante de **Engenharia de Software** e f
 
 <img src="https://skillicons.dev/icons?i=html,css,js,php,wordpress&theme=dark" />
 
+<br/>
+
 **🛠️ Ferramentas & Infra**
 
 <img src="https://skillicons.dev/icons?i=git,docker,aws,azure,gcp&theme=dark" />
@@ -53,17 +57,17 @@ Me chamo **Leonardo Sinhorine**, sou estudante de **Engenharia de Software** e f
 <tr>
 <td width="50%" valign="top">
 
-**💰 FinPulse Engine**
-Pipeline end-to-end para 10+ milhões de transações, Star Schema, análise de TPV e detecção de fraude com dashboard executivo.
-`Python` `PostgreSQL` `Power BI`
+**💰 FinPulse Engine**<br/>
+Pipeline end-to-end para 10+ milhões de transações, Star Schema, análise de TPV e detecção de fraude com dashboard executivo.<br/>
+`Python` `PostgreSQL` `Power BI`<br/>
 🔗 [finpulse-engine](https://github.com/leoSinhorine/finpulse-engine)
 
 </td>
 <td width="50%" valign="top">
 
-**⚽ IA Copa do Mundo 2026**
-Previsão dos 72 jogos da fase de grupos com Elo dinâmico, simulação de Poisson e clima em tempo real. Acurácia de 58,8%.
-`Python` `Scikit-Learn` `Streamlit`
+**⚽ IA Copa do Mundo 2026**<br/>
+Previsão dos 72 jogos da fase de grupos com Elo dinâmico, simulação de Poisson e clima em tempo real. Acurácia de 58,8%.<br/>
+`Python` `Scikit-Learn` `Streamlit`<br/>
 🔗 [copa-2026-ia](https://github.com/leoSinhorine/copa-2026-ia)
 
 </td>
@@ -71,27 +75,30 @@ Previsão dos 72 jogos da fase de grupos com Elo dinâmico, simulação de Poiss
 <tr>
 <td width="50%" valign="top">
 
-**🛒 ETL de Vendas — Medallion**
-Automação ETL de CSV para PostgreSQL, camadas Bronze/Silver e visualização em Power BI.
-`Python` `PostgreSQL` `SQLAlchemy`
+**🛒 ETL de Vendas — Medallion**<br/>
+Automação ETL de CSV para PostgreSQL, camadas Bronze/Silver e visualização em Power BI.<br/>
+`Python` `PostgreSQL` `SQLAlchemy`<br/>
 🔗 [etl-pipeline-vendas](https://github.com/leoSinhorine/etl-pipeline-vendas)
 
 </td>
 <td width="50%" valign="top">
 
-**💹 Pipeline Financeiro Real-Time**
-Extração e visualização de ativos (USD, EUR, BTC) com histórico e dashboard executivo.
-`Python` `PostgreSQL` `Power BI`
+**💹 Pipeline Financeiro Real-Time**<br/>
+Extração e visualização de ativos (USD, EUR, BTC) com histórico e dashboard executivo.<br/>
+`Python` `PostgreSQL` `Power BI`<br/>
 🔗 [pipeline-financeiro-realtime](https://github.com/leoSinhorine/pipeline-financeiro-realtime)
 
 </td>
 </tr>
 </table>
 
-**💬 Monitor de Sentimentos para E-commerce (NLP)**
-Análise de sentimentos com 100 mil+ avaliações reais (Olist), transformando feedbacks em insights de negócio.
-`Python` `spaCy` `Streamlit`
-🔗 [monitor-sentimento-nlp](https://github.com/leoSinhorine/monitor-sentimento-nlp)
+<br/>
+
+**💬 Monitor de Sentimentos para E-commerce (NLP)**<br/>
+Análise de sentimentos com 100 mil+ avaliações reais (Olist), transformando feedbacks em insights de negócio.<br/>
+`Python` `spaCy` `Streamlit` · 🔗 [monitor-sentimento-nlp](https://github.com/leoSinhorine/monitor-sentimento-nlp)
+
+<br/>
 
 > 📁 Portfólio completo em [leosinhorine.netlify.app](https://leosinhorine.netlify.app)
 
@@ -119,8 +126,8 @@ Análise de sentimentos com 100 mil+ avaliações reais (Olist), transformando f
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=leoSinhorine&show_icons=true&theme=tokyonight&hide_rank=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoSinhorine&layout=compact&theme=tokyonight"/>
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=leoSinhorine&show_icons=true&theme=tokyonight&hide_rank=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leoSinhorine&layout=compact&theme=tokyonight" />
 </p>
 
 <br/>
