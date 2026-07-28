@@ -121,10 +121,16 @@ Análise de sentimentos com 100 mil+ avaliações reais (Olist), transformando f
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&color=4FA8FF&vCenter=true&width=500&height=30&lines=GitHub+Stats%3A" alt="GitHub Stats"/>
 
 <p>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=leoSinhorine&show_icons=true&hide_border=true&bg_color=0D1117&title_color=4FA8FF&icon_color=60A5FA&text_color=FFFFFF"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoSinhorine&layout=compact&hide_border=true&bg_color=0D1117&title_color=4FA8FF&text_color=FFFFFF"/>
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leoSinhorine&theme=blue_navy"/>
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leoSinhorine&theme=blue_navy"/>
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=leoSinhorine&bg_color=0D1117&color=4FA8FF&line=1976D2&point=FFFFFF&hide_border=true" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=leoSinhorine&background=0D1117&border=1976D2&stroke=1976D2&ring=4FA8FF&fire=4FA8FF&currStreakLabel=4FA8FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Streak Stats"/>
+
+<br/>
+
+**🐍 Cobra de contribuições (animada)**
+
+<img src="https://raw.githubusercontent.com/leoSinhorine/leoSinhorine/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1976D2,100:0D2B4E&height=100&section=footer" width="100%"/>
