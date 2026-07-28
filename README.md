@@ -2,24 +2,24 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=4FA8FF&center=true&vCenter=true&width=500&lines=Hello+World!" alt="Hello World"/>
 
-### 🚀 Sobre mim
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&color=4FA8FF&vCenter=true&width=500&height=30&lines=Sobre+mim%3A" alt="Sobre mim"/>
 
-Me chamo **Leonardo Sinhorine**, sou estudante de **Engenharia de Software** e focado em **Engenharia de Dados & Análise de Dados**. Desenvolvo projetos práticos aplicando pipelines ETL/ELT, modelagem de dados e dashboards para tomada de decisão de negócio.
+Me chamo **Leonardo Sinhorine**, sou estudante de **Engenharia de Software** e atuo com **Engenharia de Dados & Análise de Dados**, construindo pipelines ETL, dashboards e automações que apoiam decisões de negócio.
 
-- 🎓 **Formação:** Eng. de Software (Cruzeiro do Sul) · Pós em Eng. de Dados (Anhanguera) · MBA em Dados & NLP *(em andamento)*
-- 🎯 **Objetivo:** Estágio em Engenharia de Dados, Análise de Dados ou BI
-- 🗣️ **Idiomas:** Inglês Intermediário (leitura e documentação técnica)
-- 📍 **Local:** Guarulhos/SP — disponível para estágio Presencial, Híbrido ou Remoto
+- 🎓 **Formação:** Engenharia de Software (Cruzeiro do Sul) · Pós em Engenharia de Dados (Anhanguera) · MBA em Dados & NLP (em andamento)
+- 🎯 **Objetivo:** Engenharia de Dados, Análise de Dados ou BI
+- 🗣️ **Idiomas:** Inglês (Intermediário — leitura técnica)
+- 📍 **Local:** Guarulhos/SP — presencial, híbrido ou remoto
 
 <br/>
 
-### 🛠️ Tecnologias e Stack
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&color=4FA8FF&vCenter=true&width=500&height=30&lines=Tecnologias+e+Stack%3A" alt="Tecnologias e Stack"/>
+
+<br/>
 
 **💻 Dados & Linguagens**
 
 <img src="https://skillicons.dev/icons?i=python,postgres,mysql,mongodb&theme=dark" />
-
-<br/>
 
 **📊 BI & Visualização**
 
@@ -43,31 +43,29 @@ Me chamo **Leonardo Sinhorine**, sou estudante de **Engenharia de Software** e f
 
 <img src="https://skillicons.dev/icons?i=html,css,js,php,wordpress&theme=dark" />
 
-<br/>
-
 **🛠️ Ferramentas & Infra**
 
 <img src="https://skillicons.dev/icons?i=git,docker,aws,azure,gcp&theme=dark" />
 
 <br/>
 
-### 📌 Projetos em Destaque
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&color=4FA8FF&vCenter=true&width=500&height=30&lines=Projetos+em+Destaque%3A" alt="Projetos em Destaque"/>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**💰 FinPulse Engine**<br/>
-Pipeline end-to-end para 10+ milhões de transações, Star Schema, análise de TPV e detecção de fraude com dashboard executivo.<br/>
-`Python` `PostgreSQL` `Power BI`<br/>
+**💰 FinPulse Engine**
+Pipeline end-to-end para 10+ milhões de transações, Star Schema, análise de TPV e detecção de fraude com dashboard executivo.
+`Python` `PostgreSQL` `Power BI`
 🔗 [finpulse-engine](https://github.com/leoSinhorine/finpulse-engine)
 
 </td>
 <td width="50%" valign="top">
 
-**⚽ IA Copa do Mundo 2026**<br/>
-Previsão dos 72 jogos da fase de grupos com Elo dinâmico, simulação de Poisson e clima em tempo real. Acurácia de 58,8%.<br/>
-`Python` `Scikit-Learn` `Streamlit`<br/>
+**⚽ IA Copa do Mundo 2026**
+Previsão dos 72 jogos da fase de grupos com Elo dinâmico, simulação de Poisson e clima em tempo real. Acurácia de 58,8%.
+`Python` `Scikit-Learn` `Streamlit`
 🔗 [copa-2026-ia](https://github.com/leoSinhorine/copa-2026-ia)
 
 </td>
@@ -75,36 +73,33 @@ Previsão dos 72 jogos da fase de grupos com Elo dinâmico, simulação de Poiss
 <tr>
 <td width="50%" valign="top">
 
-**🛒 ETL de Vendas — Medallion**<br/>
-Automação ETL de CSV para PostgreSQL, camadas Bronze/Silver e visualização em Power BI.<br/>
-`Python` `PostgreSQL` `SQLAlchemy`<br/>
+**🛒 ETL de Vendas — Medallion**
+Automação ETL de CSV para PostgreSQL, camadas Bronze/Silver e visualização em Power BI.
+`Python` `PostgreSQL` `SQLAlchemy`
 🔗 [etl-pipeline-vendas](https://github.com/leoSinhorine/etl-pipeline-vendas)
 
 </td>
 <td width="50%" valign="top">
 
-**💹 Pipeline Financeiro Real-Time**<br/>
-Extração e visualização de ativos (USD, EUR, BTC) com histórico e dashboard executivo.<br/>
-`Python` `PostgreSQL` `Power BI`<br/>
+**💹 Pipeline Financeiro Real-Time**
+Extração e visualização de ativos (USD, EUR, BTC) com histórico e dashboard executivo.
+`Python` `PostgreSQL` `Power BI`
 🔗 [pipeline-financeiro-realtime](https://github.com/leoSinhorine/pipeline-financeiro-realtime)
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-**💬 Monitor de Sentimentos para E-commerce (NLP)**<br/>
-Análise de sentimentos com 100 mil+ avaliações reais (Olist), transformando feedbacks em insights de negócio.<br/>
-`Python` `spaCy` `Streamlit` · 🔗 [monitor-sentimento-nlp](https://github.com/leoSinhorine/monitor-sentimento-nlp)
-
-<br/>
+**💬 Monitor de Sentimentos para E-commerce (NLP)**
+Análise de sentimentos com 100 mil+ avaliações reais (Olist), transformando feedbacks em insights de negócio.
+`Python` `spaCy` `Streamlit`
+🔗 [monitor-sentimento-nlp](https://github.com/leoSinhorine/monitor-sentimento-nlp)
 
 > 📁 Portfólio completo em [leosinhorine.netlify.app](https://leosinhorine.netlify.app)
 
 <br/>
 
-### 🌐 Minhas Redes
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&color=4FA8FF&vCenter=true&width=500&height=30&lines=Minhas+Redes%3A" alt="Minhas Redes"/>
 
 <p>
   <a href="https://www.linkedin.com/in/leonardo-sinhorine-b42b9b302" target="_blank">
@@ -122,7 +117,6 @@ Análise de sentimentos com 100 mil+ avaliações reais (Olist), transformando f
 </p>
 
 <br/>
-
 ### 📊 GitHub Stats
 
 <p align="center">
